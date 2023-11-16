@@ -1,4 +1,5 @@
 import tkinter as tk
+# much of this code generated with chatgpt
 
 # Create the main application window
 root = tk.Tk()
